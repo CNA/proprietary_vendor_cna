@@ -9,5 +9,5 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cna_toro.mk \
     $(LOCAL_DIR)/cna_toroplus.mk \
     $(LOCAL_DIR)/cna_umts_everest.mk \
-    $(LOCAL_DIR)/cna_wingray.mk
-
+    $(LOCAL_DIR)/cna_wingray.mk \
+    $(LOCAL_DIR)/cna_i9100g.mk

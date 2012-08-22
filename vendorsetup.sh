@@ -8,4 +8,5 @@ add_lunch_combo cna_toro-userdebug
 add_lunch_combo cna_toroplus-userdebug
 add_lunch_combo cna_umts_everest-userdebug
 add_lunch_combo cna_wingray-userdebug
+add_lunch_combo cna_i9100g-userdebug
 
